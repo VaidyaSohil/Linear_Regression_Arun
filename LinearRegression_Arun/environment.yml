@@ -1,0 +1,11 @@
+channels:
+  - defaults
+dependencies:
+  - ipython
+  - ipywidgets
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - pandas
+  - seaborn
+  - plotly
